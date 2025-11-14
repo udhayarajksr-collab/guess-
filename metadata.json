@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Guess the Number Game",
+  "description": "A simple and visually appealing 'Guess the Number' game built with React and Tailwind CSS. The app challenges players to guess a secret number between 1 and 100, providing feedback for each guess and tracking the high score using local storage.",
+  "requestFramePermissions": []
+}
